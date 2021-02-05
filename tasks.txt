@@ -1,0 +1,16 @@
+admin$ Register Users with taskManager.py$ Use taskManager.py to add the usernames and passwords for all team members that will be using this program.$ 10 Oct 2019$ 20 Oct 2019$ No
+admin$ Assign initial tasks$ Use taskManager.py to assign each team member with appropriate tasks$ 10 Oct 2019$ 25 Oct 2019$ No
+shaun$ Bring snacks$ It's your turn to bring snacks, drinks and balloons for the office party.$ 12-10-2020$ 29-11-2020$ No
+shaun$ Errands in town$ Please go pick up the dry cleaning. We've also run out washing powder, so please pick some up on the way home.$ 10-10-2020$ 20-10-2020$ No
+daisy$ Take the dogs for a walk$ Don't forget that the dogs need a walk, feeding, take them to the parlour and also grab some milk while you're out.$ 27-10-2020$ 28-10-2020$ No
+alexis$ Send the proposal$ Please send me the mockup of the proposal for our new client, and include Sheila in the correspondence.$ 25-10-2020$ 30-10-2020$ No
+shaun$ Lock up the office$ Please lock up after you leave tomorrow evening, we will be working remotely.$ 16-10-2020$ 29-11-2020$ No
+Yarrah$ Project Management Meeting$ We need to set up a kick-off meeting to plan the new design project starting in Novemeber, 2020.$ 26-10-2020$ 30-10-2020$ No
+Peter$ Reserve conference room$ Please book the conference room for Thursday, 25th for the team scrum meeting.$ 18-10-2020$ 29-10-2020$ No
+daisy$ Get catering$ Please organise catering for the conference meeting on Thurs 2 Nov for 13 people.$ 25-10-2020$ 02-11-2020$ No
+daisy$ Book haircut$ Please book a haircut so I can look fresh.$ 2020-10-25$ 2020-10-30$ No
+jane$ Write that book$ You promised to write that book and now I am giving you the time off to go finish it.$ 2020-10-25$ 2021-02-28$ No
+jane$ Buy flowers$ Please get some flowers for the office, and cookies.$ 2020-10-25$ 2020-11-14$ No
+daisy$ Tie a yellow ribbon$ Tie it around the old oak tree, the old oak tree.$ 2020-10-25$ 2020-12-15$ No
+admin$ QA testing$ We need to schedule QA testing to check for bugs.$ 2020-10-25$ 2020-12-24$ No
+jane$ Upgrade the servers$ We need to upgrade the servers to handle the load due to scaling up the systems.$ 2020-10-25$ 2021-02-15$ No
