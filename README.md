@@ -1,15 +1,31 @@
-# simpleTaskManager
+# company_task_manager_v1
 
-**Hyperion Software Developer Bootcamp**
+## About
 
-This task was to create a program for a small business that can
-help it to manage tasks assigned to each member of the team. This part of the project was to focus on working with files and string manipulation, and
-also use conditional logic and loops.
+This is a simple Python program for a small business that can help it to manage tasks assigned to each member of the team. 
+For this program I was to focusing on working with files and string manipulation, and also using conditional logic and loops.
+I extended the functionality in company_task_manager_v2.
 
-Further functionality was added to this project further on in the course and you can see this in the TaskManager repo. 
+###### All users can:
+* login with username and password
+* add a new task
+* assign the task to user
+* add a task name
+* add a task description
+* set the due date
+* view all their incomplete tasks
+* view all incomplete tasks in whole company
 
+###### Administrators can:
+* add new users (login & password) 
+* view statistics for 
+   * total number of tasks
+   * total number of users
 
-## Task:
-In this task, you will be creating a program for a small business that can
-help it to manage tasks assigned to each member of the team. You will
-extend this task in the next Capstone project.
+## Contributors
+No contributions at this time.
+
+## Usage
+Requirements for running
+* Import date class from datetime module
+   * from datetime import date
